@@ -2,3 +2,4 @@
 - 👀 I’m interested in working as QA/sis admin
 - 🌱 I’m currently learning server adminidtration on Linux
 - 💞️ I’m looking to collaborate on blockchain projects
+- 💬 You could contact me om [twitter](https://twitter.com/VadimBudarin)
